@@ -1,0 +1,16 @@
+{
+ "source": {
+  "kind": "file",
+  "ref": "assets/img/chef-de-la-maison-icon.svg"
+ },
+ "source_md5": "e0712b22920913d6a06ab69c02aec1e9",
+ "version": "f42ef434",
+ "tile": null,
+ "crop": null,
+ "header": [
+  "inline",
+  "index.html",
+  "6244efae6b62b7da4c240864590c424b"
+ ],
+ "made": "2026-11-23"
+}
